@@ -79,7 +79,13 @@ Keywords: `spy`, `shadow`, `secret`, `covert`, `network`, `silence`, `infiltrate
 
 ---
 
-### Stage 2 (Iron Fist) — The Conscription Mandate (Nagapattinam)
+### Stage 2 — Military Buildup (Nagapattinam / Madurai)
+
+> **Note:** Stage 2 city and scenario depend on the Stage 1 choice. Iron Fist players go to Nagapattinam. Velvet Glove players go to Madurai.
+
+---
+
+#### Situation A — The Conscription Mandate (Iron Fist path, Nagapattinam)
 
 You're at the main naval base. The shipyards need a massive surge in labor and crew immediately.
 
@@ -97,7 +103,7 @@ Keywords: `treasury`, `bounty`, `volunteer`, `pay`, `hire`, `recruit`, `offer`, 
 
 ---
 
-### Stage 2 (Velvet Glove) — The Sangam Concession (Madurai)
+#### Situation B — The Sangam Concession (Velvet Glove path, Madurai)
 
 The southern chieftains are skeptical and demand something in return for their troops before northern rivals strike.
 
@@ -141,7 +147,13 @@ Keywords: `masses`, `people`, `distribute`, `share`, `civilians`, `citizens`, `f
 
 ---
 
-### Stage 4 (Prioritize Core) — Silk Guild War Bonds (Kanchipuram)
+### Stage 4 — Holding the Line (Kanchipuram / Srirangam)
+
+> **Note:** Stage 4 city and scenario depend on the Stage 3 choice. Prioritize Core → Kanchipuram. Feed Masses → Srirangam.
+
+---
+
+#### Situation A — Silk Guild War Bonds (Prioritize Core path, Kanchipuram)
 
 You march north to intercept the Chalukya. You need emergency funding to fortify the walls.
 
@@ -167,7 +179,7 @@ Keywords: `loan`, `borrow`, `negotiate`, `deal`, `offer`, `request`, `ask`, `pur
 
 ---
 
-### Stage 4 (Feed Masses) — Sacred Labyrinth Defense (Srirangam)
+#### Situation B — Sacred Labyrinth Defense (Feed Masses path, Srirangam)
 
 Your treasury is low and troops are weak, but the population is loyal. You fall back to Srirangam — a river-island temple-city with seven concentric walls.
 
